@@ -1,0 +1,17 @@
+
+### 4. `requirements.txt`
+```txt
+# Python requirements for Contact Management System
+# No external dependencies required - uses Python standard library only
+
+# Python 3.6 or higher required
+# Standard library modules used:
+# - json: For data persistence
+# - re: For regex validation
+# - csv: For export functionality
+# - os: For file operations
+# - datetime: For timestamps
+# - unittest: For testing (included in test_contacts.py)
+
+# This file is included for completeness in case future enhancements
+# require external packages
